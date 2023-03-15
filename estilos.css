@@ -1,0 +1,95 @@
+body {
+margin: 0;
+
+}
+
+header {
+
+background-color: red;
+text-align: center;
+color: yellow;
+font-size: 40px;
+font-family: cursive;
+border: 10px solid red;
+
+}
+nav {
+background-color: yellow;
+border: 5px solid black;
+text-align: center;
+
+
+}
+a {
+    font-size: 25px;
+    text-decoration: none;
+    margin: 30px 20px 30px 20px;
+    
+}
+#container {
+    background-color: burlywood;
+    border: 5px solid;
+
+}
+
+.Escrito {
+
+font-size: 20px;
+font-family: cursive;
+text-align: left;
+padding: 15px;
+}
+    
+#div-linha {
+    display: flex;
+    padding: 15px; 
+    margin: 15px;
+    padding-right: 30px;
+    justify-content: space-between;
+
+}
+
+.Foto2 {
+    padding: 10px;
+margin: 10px;
+}
+
+.Foto3 {
+    padding: 10px;
+    margin: 10px;
+}
+
+.Foto5 {
+    padding: 10px;
+margin: 10px;
+
+}
+
+#div-linha2 {
+    display: flex;
+    padding: 15px;
+    width: 1000px; 
+    margin: 15px;
+}
+
+footer {
+background-color: aquamarine;
+text-align: center;
+color: darkolivegreen;
+font-family: cursive;
+font-size: 20px;
+border: 5px solid;
+
+}
+p {
+    text-align: justify;
+    margin: 10px;
+}
+h1 {
+    text-align: center;
+
+}
+nav a:hover {
+color: rgb(252, 42, 42);
+
+}
